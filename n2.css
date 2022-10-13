@@ -1,0 +1,47 @@
+body{
+    background-image: url("./l3.webp");
+    background-size: cover;
+}
+.r1{
+    height: 500px;
+    /* background-color: rgb(250, 240, 240); */
+    display: flex;
+    justify-content: space-around;
+    align-items:center;
+    
+}
+p{
+      color: whitesmoke;
+}
+h1{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+.col{
+    height: 400px;
+    width: 300px;
+    border: double bisque 2px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;}
+.col-1{
+    /* background-image: url("./t1.jpg");
+    background-size: contain; */
+}
+.col-2{
+    background-color: rgb(30, 113, 124);
+}
+.col-3{
+    background-color: rgb(211, 187, 187);
+}
+.col-4{
+    background-color: rgb(177, 202, 31);
+}
+.col-5{
+    background-color: rgb(211, 187, 187);
+}
+.col-6{
+    background-color: rgb(177, 202, 31);
+}
